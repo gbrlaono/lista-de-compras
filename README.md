@@ -21,7 +21,7 @@ As técnicas e tecnologias utilizadas para isso são:
 
 Neste projeto, implementei algumas melhorias e ajustes em relação ao projeto original fornecido pelo curso:
 
-- **Alterações no CSS**: Atualizei as cores do projeto inicial e adicionei espaçamento na parte inferior da lista usando a propriedade `margin`, que antes estava aplicada apenas ao topo. Além disso, substituí a propriedade `height` por `min-height` para garantir que o background se ajuste automaticamente ao tamanho da lista.
+- **Alterações no CSS**: Atualizei as cores do projeto inicial e adicionei espaçamento na parte inferior da lista utilizando a propriedade `margin`, que antes estava aplicada apenas ao topo. Substituí a propriedade `height` por `min-height` para garantir que o background se ajuste automaticamente ao tamanho da lista e incluí estilos para o botão do WhatsApp (veja abaixo). Além disso, fiz outras pequenas melhorias na responsividade e formatação geral do CSS.
 
 - **Integração do botão do WhatsApp**: Adicionei um botão que possibilita aos usuários enviar sua lista de compras como texto diretamente via WhatsApp.
 
