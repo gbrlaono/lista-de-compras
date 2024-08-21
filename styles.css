@@ -16,6 +16,7 @@
 body {
     background: var(--degrade-verde);
     background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100vh; /* faz com que o background da lista cresça conforme o tamanho dela. */
 
     display: flex;
