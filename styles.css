@@ -13,6 +13,10 @@
     --degrade-verde: linear-gradient(180deg, #8eba46 0%, #badb86 100%);
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     background: var(--degrade-verde);
     background-repeat: no-repeat;
