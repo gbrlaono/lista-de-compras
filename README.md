@@ -27,7 +27,7 @@ Neste projeto, implementei algumas melhorias e ajustes em relação ao projeto o
 
 ## 🌐 Projeto online
 
-Você pode [acessar o projeto online](https://onogabriela.github.io/lista-de-compras/) com as minhas alterações.
+Você pode [acessar o projeto online](https://gbrlaono.github.io/lista-de-compras/) com as minhas alterações.
 
 
 ## ▶️ Abrir e rodar o projeto
